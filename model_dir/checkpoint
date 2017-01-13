@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/matthewzhou/Desktop/Zhou_Traffic_Signs/model_dir/the_model"
+all_model_checkpoint_paths: "/Users/matthewzhou/Desktop/Zhou_Traffic_Signs/model_dir/the_model"
