@@ -1,3 +1,4 @@
+An end-to-end image classifier for the German Traffic Signs dataset using Tensorflow and Convolutional Neural Networks. The link to download the dataset is here: http://benchmark.ini.rub.de/
 
 This project requires **Python 3.5** and the following Python libraries installed:
 
